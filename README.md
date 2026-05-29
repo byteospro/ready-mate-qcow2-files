@@ -1,4 +1,4 @@
-# Ready-to-Run .qcow2 Images for Limbo PC Emulator
+# Ready-to-Run .qcow2 Images
 
 Welcome! This repository is a curated collection of pre-configured operating systems packaged as `.qcow2` virtual disks. They are specifically optimized to run smoothly on mobile hardware using the **Limbo PC Emulator** (Android) or standard desktop QEMU.
 
@@ -6,20 +6,20 @@ Instead of spending hours wrestling with slow installers, you can just download 
 
 ---
 
-## Available Images (For now) (No Images Are Available rn)
+## Available Images (For now)
 
 ### 💿 Fedora Core 1 (Yarrow)
 * **Architecture:** i386 (Emulated Pentium 3 / x86)
 * **Disk Format:** QCOW2 (Dynamic / Expanding up to 5GB)
 * **File Size:** ~[] 
-* **Credentials:** Username: `root` | Password: `123456`
-* 🔗 **[Download Fedora Core 1 Image from Google Drive](PASTE_YOUR_DIRECT_DOWNLOAD_LINK_HERE)**
+* **Credentials:** Username: `user` | Password (For root too): `123456`
+* 🔗 **[Download Fedora Core 1 Image from Google Drive](https://drive.google.com/file/d/1vKHJeHDgewjFw7x9Q2HPH4LfeOzV2MFM/view?usp=drive_link)**
 
 ---
 
 ## Optimal Limbo Settings (For Older/Mid-Range Phones)
 
-To get the best performance out of these legacy images on devices like the Lenovo Vibe P1 or similar processors, use the following configuration guidelines in Limbo:
+To get the best performance out of these legacy images on devices, use the following configuration guidelines in a phone emulator:
 
 * **CPU Model:** `pentium3` or `qemu32`
 * **CPU Cores:** `1` *(Crucial: Multi-core emulation often slows down legacy OS kernels due to thread synchronization overhead)*
