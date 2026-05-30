@@ -11,9 +11,16 @@ Instead of spending hours wrestling with slow installers, you can just download 
 ### 💿 Fedora Core 1 (Yarrow)
 * **Architecture:** i386 (Emulated Pentium 3 / x86)
 * **Disk Format:** QCOW2 (Dynamic / Expanding up to 5GB)
-* **File Size:** ~[] 
+* **File Size:** ~2gb
 * **Credentials:** Username: `user` | Password (For root too): `123456`
 * 🔗 **[Download Fedora Core 1 Image from Google Drive](https://drive.google.com/file/d/1vKHJeHDgewjFw7x9Q2HPH4LfeOzV2MFM/view?usp=drive_link)**
+
+### 💾 Debian 6.0.10 (Squeeze)
+* **Architecture:** i386 (Emulated Pentium 3 / x86)
+* **Disk Format:** QCOW2 (Dynamic / Expanding up to 5GB)
+* **File Size:** ~1.6GB
+* **Credentials:** Username: `debian` / `root` | Password: `123456`
+* 🔗 **[Download Debian 6 Image From Google Drive (AVAILABLE SOON)]()**
 
 ---
 
